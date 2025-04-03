@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fabian's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Fabian</h1>
+        <p>Tech Enthusiast | Coder | Debugging Expert</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi! I'm Fabian, a passionate coder and tech enthusiast who loves debugging and solving complex problems.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming: JavaScript, Python, C++</li>
+            <li>Debugging & Problem-Solving</li>
+            <li>Web Development & Automation</li>
+            <li>Tech Research & Learning</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Bug Tracker App</h3>
+            <p>A tool to track and manage bugs in software development.</p>
+        </div>
+        <div class="project">
+            <h3>Portfolio Website</h3>
+            <p>A personal website to showcase my skills and projects.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: fabian@example.com</p>
+        <p>GitHub: <a href="https://github.com/fabian" target="_blank">github.com/fabian</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Fabian | Built with 💻 & ☕</p>
+    </footer>
+</body>
+</html>
